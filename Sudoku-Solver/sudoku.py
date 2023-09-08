@@ -5,7 +5,7 @@ from utils import *
 import sudukoSolver
 
 ########################################################################
-pathImage = "Resources/test2.jpg.png"
+pathImage = "Resources/test15.png"
 heightImg = 450
 widthImg = 450
 model = intializePredectionModel()  # LOAD THE CNN MODEL
